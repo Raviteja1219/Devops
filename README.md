@@ -7,6 +7,13 @@ used for devops practice
 - Install AWS CLI and set path in env accordingly
 - configure aws
 - write a main.tf file with all instructions on what resources to be added
+
+the main terraform commands used are
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+
 *** some useful git commands to perform operations from vs code
 
 git config --global user.email “you@example.com”
