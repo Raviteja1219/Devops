@@ -10,6 +10,8 @@ used for devops practice
   ** terraform state file is generated once we have applied or confign which is stored in our local initially. It had some confidential data such as aws access keys. This state file can be stored in the remote backed, it got two options
   1. Terraform cloud
   2. AWS S3 bucket
+ 
+  
   ![image](https://github.com/Raviteja1219/Devops/assets/115038689/4c187c18-0fc0-4e6d-ae0b-cb38a5fa6de1)
 
 
